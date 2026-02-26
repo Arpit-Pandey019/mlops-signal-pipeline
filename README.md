@@ -13,8 +13,7 @@ docker run --rm mlops-task
 - data.csv : Dataset
 - requirements.txt : Python packages
 - Dockerfile : Container instructions
-- metrics.json : Output metrics
-- run.log : Job logs
+
 
 
 
