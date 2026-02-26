@@ -1,0 +1,3 @@
+seed: 42        # Random seed for reproducibility
+window: 5       # Window size for rolling mean
+version: "v1"   # Version of the task
